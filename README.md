@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/CyPOkTS.jpeg" alt="Ishan Biswas Banner" width="100%" />
+  <img src="https://i.imgur.com/CyPOkTS.jpeg" alt="Ishan Biswas Banner" width="50%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ishan Biswas</h1>
