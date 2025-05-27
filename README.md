@@ -26,7 +26,7 @@
 - ₿ [**BitDrop**](https://github.com/OneTrickBreach/BitDrop) — Bitcoin Donation Address Generator Extension
 - ⚡ [**Anomaly Detection in Energy Consumption**](https://github.com/OneTrickBreach/Anomaly-Detection) — Smart Household Energy Analysis
 - 🥊 [**Atari Boxing Project**](https://github.com/OneTrickBreach/AtariBoxingProject) — Multi-agent Reinforcement Learning System
-- 🖼️ [**7Sigma**](https://github.com/OneTrickBreach/7Sigma) — Full stack image uploading fullstack app
+- 🖼️ [**7Sigma**](https://github.com/OneTrickBreach/7Sigma) — Full stack image uploading app
 
 ---
 
